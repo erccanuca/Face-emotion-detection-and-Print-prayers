@@ -1,0 +1,14 @@
+c:\users\ercan\documents\visual studio 2015\Projects\DuamatikAndFaceEmotionRecognition\DuamatikAndFaceEmotionRecognition\bin\Debug\DuamatikAndFaceEmotionRecognition.exe.config
+C:\Users\ercan\Documents\Visual Studio 2015\Projects\DuamatikAndFaceEmotionRecognition\DuamatikAndFaceEmotionRecognition\obj\Debug\DuamatikAndFaceEmotionRecognition.MainForm.resources
+C:\Users\ercan\Documents\Visual Studio 2015\Projects\DuamatikAndFaceEmotionRecognition\DuamatikAndFaceEmotionRecognition\obj\Debug\DuamatikAndFaceEmotionRecognition.Properties.Resources.resources
+C:\Users\ercan\Documents\Visual Studio 2015\Projects\DuamatikAndFaceEmotionRecognition\DuamatikAndFaceEmotionRecognition\obj\Debug\DuamatikAndFaceEmotionRecognition.csproj.GenerateResource.Cache
+C:\Users\ercan\Documents\Visual Studio 2015\Projects\DuamatikAndFaceEmotionRecognition\DuamatikAndFaceEmotionRecognition\bin\Debug\DuamatikAndFaceEmotionRecognition.exe
+C:\Users\ercan\Documents\Visual Studio 2015\Projects\DuamatikAndFaceEmotionRecognition\DuamatikAndFaceEmotionRecognition\bin\Debug\DuamatikAndFaceEmotionRecognition.pdb
+C:\Users\ercan\Documents\Visual Studio 2015\Projects\DuamatikAndFaceEmotionRecognition\DuamatikAndFaceEmotionRecognition\bin\Debug\MySql.Data.dll
+C:\Users\ercan\Documents\Visual Studio 2015\Projects\DuamatikAndFaceEmotionRecognition\DuamatikAndFaceEmotionRecognition\bin\Debug\WebCam_Capture.dll
+C:\Users\ercan\Documents\Visual Studio 2015\Projects\DuamatikAndFaceEmotionRecognition\DuamatikAndFaceEmotionRecognition\bin\Debug\MySql.Data.xml
+C:\Users\ercan\Documents\Visual Studio 2015\Projects\DuamatikAndFaceEmotionRecognition\DuamatikAndFaceEmotionRecognition\obj\Debug\DuamatikAndFaceEmotionRecognition.exe
+C:\Users\ercan\Documents\Visual Studio 2015\Projects\DuamatikAndFaceEmotionRecognition\DuamatikAndFaceEmotionRecognition\obj\Debug\DuamatikAndFaceEmotionRecognition.pdb
+C:\Users\ercan\Documents\Visual Studio 2015\Projects\DuamatikAndFaceEmotionRecognition\DuamatikAndFaceEmotionRecognition\obj\Debug\DuamatikAndFaceEmotionRecognition.Form1.resources
+C:\Users\ercan\Documents\Visual Studio 2015\Projects\DuamatikAndFaceEmotionRecognition\DuamatikAndFaceEmotionRecognition\obj\Debug\DuamatikAndFaceEmotionRecognition.csprojResolveAssemblyReference.cache
+C:\Users\ercan\Documents\Visual Studio 2015\Projects\DuamatikAndFaceEmotionRecognition\DuamatikAndFaceEmotionRecognition\obj\Debug\DuamatikAndFaceEmotionRecognition.Form2.resources
